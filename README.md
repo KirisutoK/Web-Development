@@ -1,9 +1,12 @@
-<h1>Web Development</h1>
-<h2> This is where all my Web Developing related code is. </h2>
-<p> This is self study </p>
-<hr>
+<!-- 
+What is the file about?
 
-<h2> COURSE OUTLINE (by Professor Claude) </h2>
+
+-->
+
+<h1> COURSE OUTLINE (by Professor Claude) </h1>
+<h2> This courses is made by Professor Claude in order for me to self-learn Web Development</h2>
+<hr>
 <h3> Module 1: Getting Started ✅</h3>
 <ul> 
     <li> Lesson 1: What is HTML and How Do Websites Work? ✅</li>
@@ -29,3 +32,4 @@
         <li> Lesson 13: Creating Tables ❌</li>
         <li> Lesson 14: Building Forms (Input Fields, Buttons) ❌</li>
         <li> Lesson 15: Building Your Complete Website ❌</li> </ul>
+
