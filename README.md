@@ -5,7 +5,7 @@ What is the file about?
 -->
 
 <h1> COURSE OUTLINE (by Professor Claude) </h1>
-<h2> This courses is made by Professor Claude in order for me to self-learn Web Development</h2>
+<p> This courses is made by Professor Claude in order for me to self-learn Web Development</p>
 <hr>
 <h3> Module 1: Getting Started ✅</h3>
     <ul> 
